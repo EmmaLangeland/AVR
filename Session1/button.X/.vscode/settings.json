@@ -1,0 +1,5 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${userHome}/git/avrkurs/Session1/button.X/_build/Session1_Button/default"
+    ]
+}
