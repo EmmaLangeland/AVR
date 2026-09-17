@@ -1,0 +1,6 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${userHome}/yuuuuge_programs/edb_large_files/avrkurs_git_repo/avrkurs/Session1-LF/debounce.X/_build/Session1_LF_Debounce/default"
+    ],
+    "mplab.clangd.path": "/opt/microchip/xc8/v3.00/bin/xc8-clangd"
+}

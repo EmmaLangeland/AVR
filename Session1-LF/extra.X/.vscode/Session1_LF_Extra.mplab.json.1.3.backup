@@ -1,0 +1,84 @@
+{
+    "importedFrom": "file:///home/gia2/yuuuuge_programs/edb_large_files/avrkurs_git_repo/avrkurs/Session1-LF/extra.X",
+    "version": "1.3",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "",
+            "targetDevice": "AVR128DB48",
+            "imageType": "application",
+            "imagePath": "./out/Session1_LF_Extra/default.elf",
+            "platformTool": "default-tool",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.272"
+                }
+            ],
+            "fileSet": "Project files",
+            "toolchain": "default-XC8"
+        }
+    ],
+    "propertyGroups": [
+        {
+            "name": "default-XC8",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:xc8@3.00",
+            "properties": {
+                "XC8-config-global.constdata-progmem": true,
+                "HI-TECH-COMP.extra-include-directories": [
+                    "."
+                ],
+                "HI-TECH-COMP.asmlist": true,
+                "HI-TECH-COMP.optimization-assembler-files": true,
+                "HI-TECH-COMP.tentative-definitions": "-fno-common",
+                "HI-TECH-LINK.input-libraries": [
+                    "libm"
+                ],
+                "HI-TECH-LINK.extra-lib-directories": [
+                    "."
+                ],
+                "HI-TECH-LINK.fill-flash-options-how": "0",
+                "HI-TECH-LINK.fill-flash-options-seq": "",
+                "HI-TECH-COMP.disable-optimizations": false,
+                "HI-TECH-COMP.favor-optimization-for": "-speed,+space",
+                "HI-TECH-COMP.identifier-length": "255",
+                "HI-TECH-COMP.operation-mode": "free",
+                "HI-TECH-COMP.opt-xc8-compiler-strict_ansi": false,
+                "HI-TECH-COMP.optimization-assembler": true,
+                "HI-TECH-COMP.optimization-invariant-enable": false,
+                "HI-TECH-COMP.optimization-invariant-value": "16",
+                "HI-TECH-COMP.optimization-speed": false,
+                "HI-TECH-COMP.optimization-stable-enable": false,
+                "HI-TECH-COMP.use-iar": false,
+                "HI-TECH-LINK.additional-options-trace-type": "",
+                "HI-TECH-LINK.additional-options-use-response-files": false,
+                "HI-TECH-LINK.clear-bss": true,
+                "HI-TECH-LINK.create-html-files": false,
+                "HI-TECH-LINK.data-model-size-of-double": "24",
+                "HI-TECH-LINK.data-model-size-of-float": "24",
+                "HI-TECH-LINK.link-in-c-library": true,
+                "HI-TECH-LINK.link-in-peripheral-library": false,
+                "XC8-config-global.advanced-elf": true,
+                "XC8-config-global.gcc-opt-driver-new": true,
+                "XC8-config-global.omit-pack-options": false,
+                "XC8-config-global.output-file-format": "-mcof,+elf"
+            }
+        },
+        {
+            "name": "default-tool",
+            "type": "tool",
+            "properties": {}
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "Project files",
+            "files": [
+                "*"
+            ],
+            "encoding": "ISO-8859-1"
+        }
+    ]
+}
