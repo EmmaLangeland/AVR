@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-cc.exe\" -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -IC:\\Users\\elang\\MPLABProjects\\AVR\\avrkurs-host-2026\\Session2\\Timer.X\\cmake\\Session2_Timer\\default\\..\\..\\.. -c -mcpu=AVR128DB48 -x c -mdfp=C:/Users/elang/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -LC:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/cmake/Session2_Timer/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles\\Session2_Timer_default_default_XC8_compile.dir\\C_\\Users\\elang\\MPLABProjects\\AVR\\avrkurs-host-2026\\Session2\\Timer.X\\main.c.o -c C:\\Users\\elang\\MPLABProjects\\AVR\\avrkurs-host-2026\\Session2\\Timer.X\\main.c",
+  "file": "C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c",
+  "output": "C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o"
+}
+]

@@ -7,18 +7,29 @@
 // STEP 1:
 // Define two LED pins
 
+#define LED0 PIN0_bm
+#define LED1 PIN1_bm
+
 int main(void) {
     // STEP 2: Set both LEDs as output (hint: dirset)
+    PORTB.DIRSET = LED0; //( 1 << LED0 ); //PORTB.DIR |= PIN0_bm;
+    PORTB.DIRSET = LED1; //|= ( 1 << LED1 );
+
 
     // STEP 3: Set the first LED as high (hint: portset)
     // Toggle the first LED. Just so that we get that the first LED will be off
     // when the second is on and vice versa
+    PORTB.OUTSET = LED0;  // |= ( 1 << LED0); //PORTB.OUT |= PIN0_bm
+    PORTB.OUTTGL = LED0;
+    
+
 
     // STEP 4: Set the period of the timer
     // The period of the timer, the value the timer will count up to
     // TCA0 = Timer/Counter type A
     // SINGLE = Normal mode of operation
     // PER = Period
+    TCA0.SINGLE.PER = 0x0F00;
 
     // STEP 5: Enable the timer
     // TCA0 = Timer/Counter type A
@@ -28,27 +39,37 @@ int main(void) {
     // OVF = Overflow Interrupt Enable
     // We enable interrupt on overflow, that is when the timer counts up to the
     // TCA0.SINGLE.PER defined above (reaches the TOP value)
+    TCA0.SINGLE.CTRLA |= 0x1;
+    TCA0.SINGLE.INTCTRL |= 0x1;
+
 
     // STEP 6: Set timer frequency
     // CTRLA = Control A
     // CLKSEL = Clock Select
     // DIV256 = Divide by 256  
     // We set the timer frequency to main clock / 256 and enable it
+    
+    TCA0.SINGLE.CTRLA |= TCA_SINGLE_CLKSEL_DIV256_gc ; //( 0x6 << 1 );
+
 
     // Enables interrupt. Without this, the ISR will not be called
     sei();
 
-    while (1) {}
+    while (1) {
+        PORTB.OUTTGL = LED0;
+        _delay_ms(1000 );
+    }
 }
 
 // Timer overflow interrupt
 ISR(TCA0_OVF_vect) {
     // STEP 7: Toggle LEDs
     // Toggle both LEDs when the timer has overflowed (reached the TOP value)
+    PORTB.OUTTGL = LED1;
+
 
     // STEP 8: Clear interrupt flag when interrupt is triggered
     // We clear the interrupt overflow flag. We need to do this in order to
     // 'tell' the CPU that we have 'acknowledged' the interrupt and can move on
+    TCA0.SINGLE.INTFLAGS |= 0x0;
 }
-
-

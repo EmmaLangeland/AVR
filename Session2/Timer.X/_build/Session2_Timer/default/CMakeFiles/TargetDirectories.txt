@@ -1,0 +1,4 @@
+C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_default_XC8_compile.dir
+C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_image_YxHBNC9X.dir
+C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default/CMakeFiles/edit_cache.dir
+C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/_build/Session2_Timer/default/CMakeFiles/rebuild_cache.dir

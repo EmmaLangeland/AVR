@@ -1,0 +1,21 @@
+# ninja log v7
+3	426	8113697409969302	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+428	643	8113697414220174	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+4	584	8113701965149117	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+584	933	8113701970946926	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+4	484	8113702415552167	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+485	689	8113702420370939	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+4	530	8113711372686407	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+530	746	8113711377937973	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+9	741	8113711840607180	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+742	1134	8113711847942737	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+7	823	8113713302776843	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+826	1181	8113713310954836	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+8	770	8113713764551132	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+771	1084	8113713772180969	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+9	538	8113714119728028	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+539	793	8113714125027102	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+12	589	8113717207562990	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+590	824	8113717213334805	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
+3	477	8113717464896475	CMakeFiles/Session2_Timer_default_default_XC8_compile.dir/C_/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/main.c.o	ce62256c03be2aee
+477	682	8113717469627813	C:/Users/elang/MPLABProjects/AVR/avrkurs-host-2026/Session2/Timer.X/out/Session2_Timer/default.elf	fe01a9d942abc322
