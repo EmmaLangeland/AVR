@@ -1,0 +1,4 @@
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/Session2_ADC_UART_default_default_XC8_compile.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/Session2_ADC_UART_default_image_74P2JQSR.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/edit_cache.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_default_XC8_compile.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_image_K_ncvKvl.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_Timer/default/CMakeFiles/edit_cache.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_Timer/default/CMakeFiles/rebuild_cache.dir

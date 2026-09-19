@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/spheal/git/ov/avrkurs/Session2-LF/cmake/Session2_ADC-UART/default/../../../ADC-UART.X -c -mcpu=AVR128DB48 -x c -mdfp=/home/spheal/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/spheal/git/ov/avrkurs/Session2-LF/cmake/Session2_ADC-UART/default/../../../ADC-UART.X -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session2_ADC_UART_default_default_XC8_compile.dir/home/spheal/git/ov/avrkurs/Session2-LF/ADC-UART.X/main.c.o -c /home/spheal/git/ov/avrkurs/Session2-LF/ADC-UART.X/main.c",
+  "file": "/home/spheal/git/ov/avrkurs/Session2-LF/ADC-UART.X/main.c",
+  "output": "/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/Session2_ADC_UART_default_default_XC8_compile.dir/home/spheal/git/ov/avrkurs/Session2-LF/ADC-UART.X/main.c.o"
+}
+]
