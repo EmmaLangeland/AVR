@@ -1,0 +1,14 @@
+cmake/
+out/
+_build/
+
+.generated_files/
+build/
+dist/
+nbproject/
+Makefile*
+Package-*
+private/
+!cmake/**/user.cmake
+cmake/**/.generated/*
+cmake/**/CMake*

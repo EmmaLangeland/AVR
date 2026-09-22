@@ -1,5 +1,15 @@
 {
     "mplab.clangd.arguments": [
-        "--compile-commands-dir=${userHome}/git/avrkurs/Session1/button.X/_build/Session1_Button/default"
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\Session1_Button\\default",
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "makefile.configureOnOpen": false,
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
     ]
 }

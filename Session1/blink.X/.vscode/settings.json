@@ -1,6 +1,15 @@
 {
     "mplab.clangd.arguments": [
-        "--compile-commands-dir=${userHome}/git/avrkurs/Session1/blink.X/_build/Session1_Blink/default"
+        "--header-insertion=never"
     ],
-    "mplab.clangd.path": "/opt/microchip/xc8/v3.00/bin/xc8-clangd"
+    "mplab.clangd.path": "c:\\Program Files\\Microchip\\xc8\\v3.10\\bin\\xc8-clangd.exe",
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}\\_build\\Session1_Blink\\default",
+    "makefile.configureOnOpen": false,
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ]
 }

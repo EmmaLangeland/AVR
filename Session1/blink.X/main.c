@@ -65,7 +65,7 @@ int main(void) {
         // used
         PORTB.OUT ^= (1 << LED0);
 
-        _delay_ms(500);
+        _delay_ms(100);
     }
 }
 

@@ -23,12 +23,16 @@
 int main() {
     // 1. Set up the LEDs as outputs.
     // Feel free to copy this from previous excercies
+    PORTB.DIRSET = LED_R;
+    PORTB.DIRSET = LED_G;
+    PORTB.DIRSET = LED_B;
 
     // 2. Set up pin multiplexing
     // In dataheet:
     // Section 17, PORTMUX we see that if we want to use TCA0 with PD0, PD1,
     // and PD2 we need to use portmux to change TCA0 to Port D. Look at
     // PORTMUX.TCAROUTEA register for this and set it to the appropriate value.
+    
 
     // 3. Enable split mode
     // We will be using timer TCA0 in Split (not Single) mode. We use Split mode

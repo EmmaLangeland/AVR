@@ -1,6 +1,25 @@
 {
-    "importedFrom": "file:///home/sebgab/git/avrkurs/Session1/extra.X",
     "version": "1.9",
+    "importedFrom": "button.X",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "device": "AVR128DB48",
+            "imageType": "application",
+            "imagePath": "./out/Session1_Button/default.elf",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.272"
+                }
+            ],
+            "fileSet": "Project files",
+            "toolchain": "default-XC8",
+            "includeLegacyMacros": true
+        }
+    ],
     "propertyGroups": [
         {
             "name": "default-XC8",
@@ -13,7 +32,7 @@
                 "HI-TECH-COMP.default-bitfield-type": true,
                 "HI-TECH-COMP.default-char-type": true,
                 "HI-TECH-COMP.disable-optimizations": false,
-                "HI-TECH-COMP.extra-include-directories": ".",
+                "HI-TECH-COMP.extra-include-directories": "button.X",
                 "HI-TECH-COMP.favor-optimization-for": "-speed,+space",
                 "HI-TECH-COMP.garbage-collect-data": true,
                 "HI-TECH-COMP.garbage-collect-functions": true,
@@ -53,13 +72,13 @@
                 "HI-TECH-LINK.display-hex-usage": false,
                 "HI-TECH-LINK.display-overall-usage": true,
                 "HI-TECH-LINK.display-psect-usage": false,
-                "HI-TECH-LINK.extra-lib-directories": ".",
+                "HI-TECH-LINK.extra-lib-directories": "button.X",
                 "HI-TECH-LINK.fill-flash-options-how": "0",
                 "HI-TECH-LINK.fill-flash-options-inc-const": "1",
                 "HI-TECH-LINK.fill-flash-options-what": "0",
                 "HI-TECH-LINK.format-hex-file-for-download": false,
                 "HI-TECH-LINK.initialize-data": true,
-                "HI-TECH-LINK.input-libraries": "libm",
+                "HI-TECH-LINK.input-libraries": "m",
                 "HI-TECH-LINK.keep-generated-startup.as": false,
                 "HI-TECH-LINK.link-in-c-library": true,
                 "HI-TECH-LINK.link-in-peripheral-library": false,
@@ -90,29 +109,9 @@
         {
             "name": "Project files",
             "files": [
-                "*"
+                "button.X/*"
             ],
             "encoding": "ISO-8859-1"
-        }
-    ],
-    "configurations": [
-        {
-            "name": "default",
-            "id": "conf1",
-            "device": "AVR128DB48",
-            "imageType": "application",
-            "imagePath": "./out/Session1_Extra/default.elf",
-            "toolProperties": "default-tool",
-            "packs": [
-                {
-                    "name": "AVR-Dx_DFP",
-                    "vendor": "Microchip",
-                    "version": "2.3.272"
-                }
-            ],
-            "fileSet": "Project files",
-            "toolchain": "default-XC8",
-            "includeLegacyMacros": true
         }
     ]
 }
