@@ -1,0 +1,4 @@
+/home/august/Git/avrkurs/Session2-LF/Timer.X/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session2-LF/Timer.X/_build/Session2_Timer/default/CMakeFiles/Session2_Timer_default_image_yDc5vMew.dir
+/home/august/Git/avrkurs/Session2-LF/Timer.X/_build/Session2_Timer/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session2-LF/Timer.X/_build/Session2_Timer/default/CMakeFiles/rebuild_cache.dir

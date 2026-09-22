@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/Session2_PWM_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/Session2_PWM_default_image_0XEkvs88.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/rebuild_cache.dir
+=======
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/Session2_PWM_default_default_XC8_compile.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/Session2_PWM_default_image_7fWsmRQC.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/edit_cache.dir
+/home/spheal/git/ov/avrkurs/Session2-LF/_build/Session2_PWM/default/CMakeFiles/rebuild_cache.dir
+>>>>>>> a1370d1d27a3cdb330f7d8876be52095cd09e09c

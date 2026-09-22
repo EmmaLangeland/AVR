@@ -1,0 +1,4 @@
+/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI_1/default/CMakeFiles/Session3_TWI_1_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI_1/default/CMakeFiles/Session3_TWI_1_default_image_Ve6e4wjv.dir
+/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI_1/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI_1/default/CMakeFiles/rebuild_cache.dir

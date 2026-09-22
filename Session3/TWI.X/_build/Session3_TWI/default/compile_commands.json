@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/main.c.o -c /home/august/Git/avrkurs/Session3/TWI.X/main.c",
+  "file": "/home/august/Git/avrkurs/Session3/TWI.X/main.c",
+  "output": "CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/main.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/twi.c.o -c /home/august/Git/avrkurs/Session3/TWI.X/twi.c",
+  "file": "/home/august/Git/avrkurs/Session3/TWI.X/twi.c",
+  "output": "CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/twi.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/uart.c.o -c /home/august/Git/avrkurs/Session3/TWI.X/uart.c",
+  "file": "/home/august/Git/avrkurs/Session3/TWI.X/uart.c",
+  "output": "CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/uart.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/TWI.X/_build/Session3_TWI/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/TWI.X/cmake/Session3_TWI/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/vcnl4200.c.o -c /home/august/Git/avrkurs/Session3/TWI.X/vcnl4200.c",
+  "file": "/home/august/Git/avrkurs/Session3/TWI.X/vcnl4200.c",
+  "output": "CMakeFiles/Session3_TWI_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/TWI.X/vcnl4200.c.o"
+}
+]

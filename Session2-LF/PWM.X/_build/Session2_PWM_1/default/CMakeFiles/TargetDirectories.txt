@@ -1,0 +1,4 @@
+/home/august/Git/avrkurs/Session2-LF/PWM.X/_build/Session2_PWM_1/default/CMakeFiles/Session2_PWM_1_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session2-LF/PWM.X/_build/Session2_PWM_1/default/CMakeFiles/Session2_PWM_1_default_image_oRVX4ET9.dir
+/home/august/Git/avrkurs/Session2-LF/PWM.X/_build/Session2_PWM_1/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session2-LF/PWM.X/_build/Session2_PWM_1/default/CMakeFiles/rebuild_cache.dir

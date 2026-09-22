@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="/home/august/Git/avrkurs/Session3/ADC-OLED.X/out/Session3_ADC-OLED/default.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>17215</used>                     
+      <free>113857</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>1096</used>                     
+      <free>15288</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

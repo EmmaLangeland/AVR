@@ -1,0 +1,135 @@
+{
+    "importedFrom": "file:///home/sebgab/git/avrkurs/Session3/ADC-OLED.X",
+    "version": "1.9",
+    "propertyGroups": [
+        {
+            "name": "default-uservariables",
+            "type": "uservariables",
+            "properties": {}
+        },
+        {
+            "name": "default-XC8",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:xc8@3.00",
+            "properties": {
+                "XC8-config-global.constdata-progmem": true,
+                "HI-TECH-COMP.extra-include-directories": [
+                    "."
+                ],
+                "HI-TECH-COMP.asmlist": true,
+                "HI-TECH-COMP.optimization-assembler-files": true,
+                "HI-TECH-COMP.tentative-definitions": "-fno-common",
+                "HI-TECH-LINK.input-libraries": [
+                    "libm"
+                ],
+                "HI-TECH-LINK.extra-lib-directories": [
+                    "."
+                ],
+                "HI-TECH-LINK.fill-flash-options-how": "0",
+                "HI-TECH-COMP.disable-optimizations": false,
+                "HI-TECH-COMP.favor-optimization-for": "-speed,+space",
+                "HI-TECH-COMP.identifier-length": "255",
+                "HI-TECH-COMP.operation-mode": "free",
+                "HI-TECH-COMP.opt-xc8-compiler-strict_ansi": false,
+                "HI-TECH-COMP.optimization-assembler": true,
+                "HI-TECH-COMP.optimization-invariant-enable": false,
+                "HI-TECH-COMP.optimization-invariant-value": "16",
+                "HI-TECH-COMP.optimization-speed": false,
+                "HI-TECH-COMP.optimization-stable-enable": false,
+                "HI-TECH-COMP.use-iar": false,
+                "HI-TECH-LINK.additional-options-use-response-files": false,
+                "HI-TECH-LINK.clear-bss": true,
+                "HI-TECH-LINK.create-html-files": false,
+                "HI-TECH-LINK.data-model-size-of-double": "24",
+                "HI-TECH-LINK.data-model-size-of-float": "24",
+                "HI-TECH-LINK.link-in-c-library": true,
+                "HI-TECH-LINK.link-in-peripheral-library": false,
+                "XC8-config-global.advanced-elf": true,
+                "XC8-config-global.gcc-opt-driver-new": true,
+                "XC8-config-global.omit-pack-options": false,
+                "XC8-config-global.output-file-format": "-mcof,+elf"
+            }
+        },
+        {
+            "name": "-tool-base",
+            "type": "tool",
+            "properties": {}
+        },
+        {
+            "name": "default-tool",
+            "type": "tool",
+            "properties": {
+                "debugoptions.useswbreakpoints": true
+            }
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "Project files",
+            "files": [
+                {
+                    "include": "main.c",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "include": "Makefile",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "include": "oled.c",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "_tempRecord": true,
+                    "include": "oled.h",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "include": "fonts.h",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "include": "twi.h",
+                    "encoding": "ISO-8859-1"
+                },
+                {
+                    "include": "twi.c",
+                    "encoding": "ISO-8859-1"
+                },
+                "graphics.h",
+                "adc.c",
+                "spi.h",
+                "adc.h",
+                "out/Session3_ADC-OLED/default.elf",
+                "out/Session3_ADC-OLED/default.hex",
+                "graphics.c",
+                "fonts.c",
+                "spi.c",
+                "_build/Session3_ADC-OLED/default/CMakeFiles/3.28.3/CompilerIdC/CMakeCCompilerId.c",
+                "_build/Session3_ADC-OLED_1/default/CMakeFiles/3.28.3/CompilerIdC/CMakeCCompilerId.c"
+            ]
+        }
+    ],
+    "configurations": [
+        {
+            "name": "default",
+            "id": "",
+            "device": "AVR128DB48",
+            "imageType": "application",
+            "imagePath": "./out/Session3_ADC-OLED/default.elf",
+            "toolProperties": "default-tool",
+            "tool": "PKOB nano",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.272"
+                }
+            ],
+            "fileSet": "Project files",
+            "toolchain": "default-XC8",
+            "userVariables": "default-uservariables",
+            "includeLegacyMacros": true
+        }
+    ]
+}
