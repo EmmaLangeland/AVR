@@ -1,0 +1,5 @@
+/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default/CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default/CMakeFiles/Session3_ADC_OLED_default_image_IDIMVT9v.dir
+/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default/CMakeFiles/merge_loadable_files.dir
+/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default/CMakeFiles/rebuild_cache.dir

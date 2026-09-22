@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/august/Git/avrkurs/Session2-LF/_build/Session2_PWM/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session2-LF/cmake/Session2_PWM/default/../../../PWM.X -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session2-LF/cmake/Session2_PWM/default/../../../PWM.X -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session2_PWM_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session2-LF/PWM.X/main.c.o -c /home/august/Git/avrkurs/Session2-LF/PWM.X/main.c",
+  "file": "/home/august/Git/avrkurs/Session2-LF/PWM.X/main.c",
+  "output": "CMakeFiles/Session2_PWM_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session2-LF/PWM.X/main.c.o"
+}
+]

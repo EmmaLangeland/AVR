@@ -1,0 +1,4 @@
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/Session2_ADC_UART_default_default_XC8_compile.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/Session2_ADC_UART_default_image_dvxSUreD.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/edit_cache.dir
+/home/august/Git/avrkurs/Session2-LF/_build/Session2_ADC-UART/default/CMakeFiles/rebuild_cache.dir

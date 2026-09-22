@@ -1,0 +1,5 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${userHome}/yuuuuge_programs/edb_large_files/avrkurs_git_repo/avrkurs/Session2/ADC-UART.X/_build/Session2_ADC-UART/default"
+    ]
+}

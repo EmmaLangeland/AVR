@@ -1,0 +1,12 @@
+# ninja log v7
+1	113	1790084865435094408	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/fonts.c.o	53acf4c6d0292226
+2	113	1790084865436222493	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/spi.c.o	1bdc9f656140a322
+1	113	1790084865434378485	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/adc.c.o	cff7c2e0cedba0b5
+2	122	1790084865436516661	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/twi.c.o	ee888fe72997702a
+2	129	1790084865435378546	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/main.c.o	c33b251df2173d88
+1	145	1790084865435372484	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/graphics.c.o	d807c18de1d6fcfc
+2	150	1790084865435915622	CMakeFiles/Session3_ADC_OLED_1_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/oled.c.o	4c427892073dacfe
+150	168	1790084865583387701	/home/august/Git/avrkurs/Session3/ADC-OLED.X/out/Session3_ADC-OLED/default.elf	f47e9e0a9f1fb493
+168	173	1790084865601941927	CMakeFiles/merge_loadable_files	5c8507ab7bc4cc2c
+168	173	1790084865601941927	/home/august/Git/avrkurs/Session3/ADC-OLED.X/out/Session3_ADC-OLED/default-unified.hex	5c8507ab7bc4cc2c
+168	173	1790084865601941927	/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED_1/default/CMakeFiles/merge_loadable_files	5c8507ab7bc4cc2c

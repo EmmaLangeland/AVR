@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Session2_PWM: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "Session2_PWM",
+            "configuration": "default",
+            "tool": "${command:pickTool}",
+            "stopOnEntry": true,
+            "preLaunchTask": "Session2_PWM: default - Full Build"
+        },
+        {
+            "name": "Launch Session2_Timer: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "Session2_Timer",
+            "configuration": "default",
+            "tool": "${command:pickTool}",
+            "stopOnEntry": true,
+            "preLaunchTask": "Session2_Timer: default - Full Build"
+        },
+        {
+            "name": "Launch Session2_ADC-UART: default",
+            "type": "mplab-core-da",
+            "request": "launch",
+            "project": "Session2_ADC-UART",
+            "configuration": "default",
+            "tool": "${command:pickTool}",
+            "stopOnEntry": true,
+            "preLaunchTask": "Session2_ADC-UART: default - Full Build"
+        }
+    ]
+}

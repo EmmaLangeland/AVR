@@ -1,0 +1,5 @@
+{
+    "mplab.clangd.arguments": [
+        "--compile-commands-dir=${userHome}/avrkurs/Session2-LF/_build/Session2_PWM/default"
+    ]
+}

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/adc.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/adc.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/adc.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/adc.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/fonts.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/fonts.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/fonts.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/fonts.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/graphics.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/graphics.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/graphics.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/graphics.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/main.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/main.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/main.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/main.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/oled.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/oled.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/oled.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/oled.c.o"
+},
+{
+  "directory": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/_build/Session3_ADC-OLED/default",
+  "command": "/opt/microchip/xc8/v3.00/bin/xc8-cc -DDEBUG -DXPRJ_default=default -D__AVR128DB48__ -D__DEBUG=1 -I/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -c -mcpu=AVR128DB48 -x c -mdfp=/home/august/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall -L/home/august/Git/avrkurs/Session3/ADC-OLED.X/cmake/Session3_ADC-OLED/default/../../.. -gdwarf-3 -mconst-data-in-progmem -mno-const-data-in-config-mapped-progmem -o CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/twi.c.o -c /home/august/Git/avrkurs/Session3/ADC-OLED.X/twi.c",
+  "file": "/home/august/Git/avrkurs/Session3/ADC-OLED.X/twi.c",
+  "output": "CMakeFiles/Session3_ADC_OLED_default_default_XC8_compile.dir/home/august/Git/avrkurs/Session3/ADC-OLED.X/twi.c.o"
+}
+]
