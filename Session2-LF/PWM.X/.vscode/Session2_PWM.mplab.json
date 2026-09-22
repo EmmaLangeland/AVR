@@ -1,6 +1,25 @@
 {
     "importedFrom": "file:///home/sebgab/git/avrkurs/Session2/PWM.X",
-    "version": "1.9",
+    "version": "1.3",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "targetDevice": "AVR128DB48",
+            "imageType": "application",
+            "imagePath": "./out/Session2_PWM/default.elf",
+            "platformTool": "default-tool",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.272"
+                }
+            ],
+            "fileSet": "Project files",
+            "toolchain": "default-XC8"
+        }
+    ],
     "propertyGroups": [
         {
             "name": "default-XC8",
@@ -55,26 +74,6 @@
                 "*"
             ],
             "encoding": "ISO-8859-1"
-        }
-    ],
-    "configurations": [
-        {
-            "name": "default",
-            "id": "conf1",
-            "imageType": "application",
-            "imagePath": "./out/Session2_PWM/default.elf",
-            "packs": [
-                {
-                    "name": "AVR-Dx_DFP",
-                    "vendor": "Microchip",
-                    "version": "2.3.272"
-                }
-            ],
-            "fileSet": "Project files",
-            "toolchain": "default-XC8",
-            "toolProperties": "default-tool",
-            "device": "AVR128DB48",
-            "includeLegacyMacros": true
         }
     ]
 }

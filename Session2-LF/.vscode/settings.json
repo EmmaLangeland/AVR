@@ -1,5 +1,7 @@
 {
     "mplab.clangd.arguments": [
-        "--compile-commands-dir=${userHome}/avrkurs/Session2-LF/_build/Session2_PWM/default"
-    ]
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/Session2_ADC-UART/default",
+    "mplab.clangd.path": "/opt/microchip/xc8/v3.00/bin/xc8-clangd"
 }

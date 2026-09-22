@@ -1,6 +1,29 @@
 {
     "importedFrom": "file:///home/gia2/yuuuuge_programs/edb_large_files/avrkurs_git_repo/avrkurs/Session2/ADC-UART.X",
+<<<<<<< HEAD
     "version": "1.9",
+=======
+    "version": "1.3",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "targetDevice": "AVR128DB48",
+            "imageType": "application",
+            "imagePath": "./out/Session2_ADC-UART/default.elf",
+            "platformTool": "default-tool",
+            "packs": [
+                {
+                    "name": "AVR-Dx_DFP",
+                    "vendor": "Microchip",
+                    "version": "2.3.272"
+                }
+            ],
+            "fileSet": "Project files",
+            "toolchain": "default-XC8"
+        }
+    ],
+>>>>>>> a1370d1d27a3cdb330f7d8876be52095cd09e09c
     "propertyGroups": [
         {
             "name": "default-XC8",
@@ -112,6 +135,7 @@
             ],
             "encoding": "ISO-8859-1"
         }
+<<<<<<< HEAD
     ],
     "configurations": [
         {
@@ -132,5 +156,7 @@
             "device": "AVR128DB48",
             "includeLegacyMacros": true
         }
+=======
+>>>>>>> a1370d1d27a3cdb330f7d8876be52095cd09e09c
     ]
 }
